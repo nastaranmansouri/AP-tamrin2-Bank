@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1642073517 source:c:\users\veysipc\desktop\nasi\ap\bank-9612358041\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	<cctype>
+	<iomanip>
+	"Client.h"
+	"Date.h"
+
+1642077005 source:c:\users\veysipc\desktop\nasi\ap\bank-9612358041\src\client.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	"Client.h"
+
+1642075171 c:\users\veysipc\desktop\nasi\ap\bank-9612358041\include\client.h
+	<string>
+	"Date.h"
+
+1642071805 c:\users\veysipc\desktop\nasi\ap\bank-9612358041\include\date.h
+
+1642075123 source:c:\users\veysipc\desktop\nasi\ap\bank-9612358041\src\date.cpp
+	"Date.h"
+	<iostream>
+	<stdexcept>
+	<array>
+
